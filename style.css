@@ -1,0 +1,6 @@
+#sj_metabox_html_to_post h2 {font-size:18px; margin:0 10px 5px 0; float:left;}
+#sj_metabox_html_to_post #use_shortcode {float:left; margin-top:5px;}
+#sj_metabox_html_to_post ul {margin:0 0 0 10px; clear:both;}
+#sj_metabox_html_to_post li {margin-bottom:10px;}
+#sj_metabox_html_to_post .clear {width:100%; height:10px; margin-bottom:10px; border-bottom:1px solid black; opacity:0.5;}
+#sj_metabox_html_to_post .unset {color:#F65077;}
